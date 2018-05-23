@@ -17,7 +17,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 22,
+    "uniqCompNum": 28,
     "versionPublish": "4.6.3",
     "screenshot": "screenshot.png"
   },
@@ -39,8 +39,10 @@
             },
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
-              "font-size": "2em",
-              "color": "#ffe1e0"
+              "font-size": "1.4em",
+              "color": "#ffe1e0",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-family": "'Titillium Web', sans-serif"
             },
             ".navbar, .dropdown-menu": {
               "background": "#333333"
@@ -59,11 +61,15 @@
             "sticky": false,
             "transparent": true,
             "bgColor": "#333333",
-            "fontSize": "2",
-            "fontName": {},
+            "fontSize": "1.4",
+            "fontName": {
+              "name": "Titillium Web",
+              "url": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "css": "'Titillium Web', sans-serif"
+            },
             "fontColor": "#ffe1e0"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">LOOKBOOK</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">WOMEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">New in</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Clothing</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dresses.html\">Dresses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Shorts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Jumpers &amp; <br>cardigans</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tops</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Skirts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Swimwear</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Accesories</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Bags &amp; Purses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Belts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Hair accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Jewellery &amp; Watches</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Hats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Scarves</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Sunglasses</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Active</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">VINTAGE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">LOOKBOOK</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">WOMEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">New in</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Clothing</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dresses.html\">Dresses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Jackets</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Sweaters</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Pants</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Accesories</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Bags</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Jewellery <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Sunglasses</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">VINTAGE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Bags</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Denim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Glasses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">\"Only one\"</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -103,7 +109,7 @@
             "overlayOpacity": "0.7"
           },
           "title": "LUNDÉN",
-          "text": "<br>Get the latest womens fashion online at LundenFashion.com. With 100s of new styles every day from dresses, onesies, heels, &amp; coats, shop womens clothing now!<br>",
+          "text": "<br>Get the latest womens fashion online at LundenFashion.com. With 100s of new styles every day from dresses, onezsies, heels, &amp; coats, shop womens clothing now!<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -348,19 +354,19 @@
             "showCaptions": false,
             "showButtons": true,
             "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingBottom": "1",
             "columns": 4,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#8eb1bf",
-            "bgVideoRadio": false,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222",
+            "overlayColor": "#ffffff",
             "overlayOpacity": "0.4"
           },
           "headerAlign": "left",
@@ -388,7 +394,7 @@
           },
           "title1": "SASHA DRESS",
           "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media2": {
             "image": {
               "active": true,
@@ -511,8 +517,10 @@
             },
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
-              "font-size": "2em",
-              "color": "#ffe1e0"
+              "font-size": "1.4em",
+              "color": "#ffe1e0",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-family": "'Titillium Web', sans-serif"
             },
             ".navbar, .dropdown-menu": {
               "background": "#333333"
@@ -531,11 +539,15 @@
             "sticky": false,
             "transparent": true,
             "bgColor": "#333333",
-            "fontSize": "2",
-            "fontName": {},
+            "fontSize": "1.4",
+            "fontName": {
+              "name": "Titillium Web",
+              "url": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "css": "'Titillium Web', sans-serif"
+            },
             "fontColor": "#ffe1e0"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">LOOKBOOK</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">WOMEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">New in</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Clothing</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dresses.html\">Dresses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Shorts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Jumpers &amp; <br>cardigans</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tops</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Skirts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Swimwear</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Accesories</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Bags &amp; Purses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Belts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Hair accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Jewellery &amp; Watches</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Hats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Scarves</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Sunglasses</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Active</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">VINTAGE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">LOOKBOOK</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">WOMEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">New in</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Clothing</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dresses.html\">Dresses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Jackets</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Sweaters</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Pants</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Accesories</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Bags</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Jewellery <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Sunglasses</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">VINTAGE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Bags</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Denim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Glasses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">\"Only one\"</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -555,50 +567,23 @@
         },
         {
           "_params": {
-            "paddingTop": "4",
+            "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#8eb1bf",
+            "bgColorRadio": true,
+            "bgColor": "#444444",
             "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": "0.4"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-530x353.jpg",
-              "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "linkInNewWindow": false,
-              "name": "more-horizontal",
-              "family": "MobiriseIcons",
-              "link": "#top",
-              "size": "82",
-              "active": true,
-              "newWindow": false
-            }
-          },
-          "text1": "<strong>ADDRESS</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text3": "<ul class=\"mbr-contacts__list\"></ul>",
+          "text": "Copyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "contacts1-i"
+          "_name": "footer1",
+          "_anchor": "footer1-q"
         }
       ]
     },
@@ -704,11 +689,15 @@
             "sticky": false,
             "transparent": true,
             "bgColor": "#333333",
-            "fontSize": "2",
-            "fontName": {},
+            "fontSize": "1.4",
+            "fontName": {
+              "name": "Titillium Web",
+              "url": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "css": "'Titillium Web', sans-serif"
+            },
             "fontColor": "#ffe1e0"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">LOOKBOOK</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">WOMEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">New in</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Clothing</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dresses.html\">Dresses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Shorts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Jumpers &amp; <br>cardigans</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tops</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Skirts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Swimwear</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Accesories</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Bags &amp; Purses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Belts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Hair accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Jewellery &amp; Watches</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Hats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Scarves</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Sunglasses</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Active</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">VINTAGE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">LOOKBOOK</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">WOMEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">New in</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Clothing</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dresses.html\">Dresses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Jackets</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Sweaters</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Pants</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Accesories</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Bags</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Jewellery <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Sunglasses</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">VINTAGE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Bags</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Denim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Glasses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">\"Only one\"</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -869,7 +858,7 @@
         {
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": 3,
+            "paddingBottom": "4",
             "bgImageRadio": true,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -877,7 +866,7 @@
             "bgColor": "#8eb1bf",
             "overlay": true,
             "overlayColor": "#3C3C3C",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0.3"
           },
           "logo": {
             "image": {
@@ -918,7 +907,7 @@
     "page3.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
-        "title": "",
+        "title": "Lookbook",
         "order": 1
       },
       "components": [
@@ -929,8 +918,10 @@
             },
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
-              "font-size": "2em",
-              "color": "#ffe1e0"
+              "font-size": "1em",
+              "color": "#ffe1e0",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-family": "'Titillium Web', sans-serif"
             },
             ".navbar, .dropdown-menu": {
               "background": "#333333"
@@ -949,11 +940,15 @@
             "sticky": false,
             "transparent": true,
             "bgColor": "#333333",
-            "fontSize": "2",
-            "fontName": {},
+            "fontSize": "1.4",
+            "fontName": {
+              "name": "Titillium Web",
+              "url": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "css": "'Titillium Web', sans-serif"
+            },
             "fontColor": "#ffe1e0"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">LOOKBOOK</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">WOMEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">New in</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Clothing</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dresses.html\">Dresses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Shorts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Jumpers &amp; <br>cardigans</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tops</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Skirts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Swimwear</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Accesories</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Bags &amp; Purses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Belts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Hair accessories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Jewellery &amp; Watches</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Hats</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Scarves</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Sunglasses</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Active</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">VINTAGE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">LOOKBOOK</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">WOMEN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">New in</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Clothing</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dresses.html\">Dresses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Jackets</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Sweaters</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Pants</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Accesories</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Bags</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Jewellery <br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Sunglasses</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">VINTAGE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Bags</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Denim</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Glasses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">\"Only one\"</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -972,51 +967,76 @@
           "_anchor": "dropdown-menu-j"
         },
         {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_params": {
-            "paddingTop": "4",
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#8eb1bf",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": "0.4"
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "images/slide1.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "images/slide2.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Slide 2",
+                "contentAlign": "left",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "images/slide3.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
           },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-530x353.jpg",
-              "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "linkInNewWindow": false,
-              "name": "more-horizontal",
-              "family": "MobiriseIcons",
-              "link": "#top",
-              "size": "82",
-              "active": true,
-              "newWindow": false
-            }
-          },
-          "text1": "<strong>ADDRESS</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text3": "<ul class=\"mbr-contacts__list\"></ul>",
+          "articleLayout": false,
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
+          "_name": "slider",
+          "_anchor": "slider-p"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
-          "_anchor": "contacts1-k"
+          "text": "Copyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-q"
         }
       ]
     }

@@ -1,12 +1,15 @@
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+
 
 #dropdown-menu-1 .hide-buttons [data-button] {
   display: none !important;
 }
 #dropdown-menu-1 .nav .link,
 #dropdown-menu-1 .dropdown-item {
-  font-size: 2em;
+  font-size: 1.4em;
   color: #ffe1e0;
+  font-family: 'Titillium Web', sans-serif;
 }
 #dropdown-menu-1 .navbar,
 #dropdown-menu-1 .dropdown-menu {
@@ -47,13 +50,15 @@
 #contacts3-8 P {
   color: #ffffff;
 }
+
 #dropdown-menu-h .hide-buttons [data-button] {
   display: none !important;
 }
 #dropdown-menu-h .nav .link,
 #dropdown-menu-h .dropdown-item {
-  font-size: 2em;
+  font-size: 1.4em;
   color: #ffe1e0;
+  font-family: 'Titillium Web', sans-serif;
 }
 #dropdown-menu-h .navbar,
 #dropdown-menu-h .dropdown-menu {
@@ -66,9 +71,6 @@
 }
 #dropdown-menu-h .navbar-toggler {
   color: #ffe1e0;
-}
-#contacts1-i P {
-  color: #ffffff;
 }
 #msg-box4-b .mbr-header__text {
   color: #ffffff;
@@ -124,13 +126,15 @@
 #contacts1-e P {
   color: #ffffff;
 }
+
 #dropdown-menu-j .hide-buttons [data-button] {
   display: none !important;
 }
 #dropdown-menu-j .nav .link,
 #dropdown-menu-j .dropdown-item {
-  font-size: 2em;
+  font-size: 1em;
   color: #ffe1e0;
+  font-family: 'Titillium Web', sans-serif;
 }
 #dropdown-menu-j .navbar,
 #dropdown-menu-j .dropdown-menu {
@@ -143,7 +147,4 @@
 }
 #dropdown-menu-j .navbar-toggler {
   color: #ffe1e0;
-}
-#contacts1-k P {
-  color: #ffffff;
 }
